@@ -6,6 +6,9 @@ install Pillow Library
 
 `pip install Pillow`
 
+## Libraries used
+`tkinter` , `os`, `pillow`
+
 ## Some ScreenShots
 
 ![HomeScreen](/Assets/Screenshot1.png)
